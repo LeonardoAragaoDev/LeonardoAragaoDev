@@ -169,3 +169,5 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 	</a>
 </div>
 -->
+
+![snake gif](https://github.com/LeonardoAragaoDev/LeonardoAragaoDev/blob/output/github-contribution-grid-snake.svg)

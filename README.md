@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Github viewers](https://komarev.com/ghpvc/?username=lewoaragao&color=3cb371&style=for-the-badge)
+  ![Github viewers](https://komarev.com/ghpvc/?username=leonardoaragaodev&color=3cb371&style=for-the-badge)
   
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Leonardo%20Aragão&fontAlign=50&fontAlignY=40&color=0:2e2e2e,100:3cb371F&animation=twinkling&fontColor=3cb371)
@@ -21,11 +21,11 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 - 📫 Como chegar até mim: 
 
 <div align="center">
-  <a href="https://github.com/lewoaragao" target="_blank"><img src="https://img.shields.io/badge/Github-3cb371?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/lewoaragao"><img src="https://img.shields.io/badge/-Instagram-3cb371?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lewoaragao"><img src="https://img.shields.io/badge/-LinkedIn-3cb371?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/leonardoaragaodev" target="_blank"><img src="https://img.shields.io/badge/Github-3cb371?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/leonardoaragaodev"><img src="https://img.shields.io/badge/-Instagram-3cb371?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leonardoaragaodev"><img src="https://img.shields.io/badge/-LinkedIn-3cb371?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-3cb371?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
-  <!-- <a href="https://www.twitter.com/lewoaragao1"><img src="https://img.shields.io/badge/Twitter-3cb371?style=for-the-badge&logo=twitter&logoColor=white"></a>  -->
+  <!-- <a href="https://www.twitter.com/leonardoaragaod"><img src="https://img.shields.io/badge/Twitter-3cb371?style=for-the-badge&logo=twitter&logoColor=white"></a>  -->
 </div> 
 
 <br />
@@ -156,8 +156,8 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=lewoaragao&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewoaragao&layout=compact&langs_count=7&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardoaragaodev&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoaragaodev&layout=compact&langs_count=7&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
 
 </div>
 
@@ -165,7 +165,7 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 <div align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=lewoaragao" alt="lewoaragao" />
+		<img src="https://github-profile-trophy.vercel.app/?username=leonardoaragaodev" alt="leonardoaragaodev" />
 	</a>
 </div>
 -->

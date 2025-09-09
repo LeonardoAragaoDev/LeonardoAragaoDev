@@ -9,7 +9,7 @@
   
 Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=30>
 
-<!-- [Meu portfólio](https://www.lewoaragao.com.br) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30> -->
+[Meu portfólio](https://leonardoaragaodev.github.io/) <img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width=30>
 
 ## Sobre mim
 
@@ -24,8 +24,6 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
   <a href="https://github.com/leonardoaragaodev" target="_blank"><img src="https://img.shields.io/badge/Github-3cb371?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/leonardoaragaodev"><img src="https://img.shields.io/badge/-Instagram-3cb371?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/leonardoaragaodev"><img src="https://img.shields.io/badge/-LinkedIn-3cb371?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/5585997972854"><img src="https://img.shields.io/badge/-WhatsApp-3cb371?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
-  <!-- <a href="https://www.twitter.com/leonardoaragaod"><img src="https://img.shields.io/badge/Twitter-3cb371?style=for-the-badge&logo=twitter&logoColor=white"></a>  -->
 </div> 
 
 <br />
@@ -160,14 +158,5 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoaragaodev&layout=compact&langs_count=7&bg_color=2e2e2e&title_color=d0cccc&text_color=3cb371&icon_color=3cb371&border_color=d0cccc" height="180em"/>
 
 </div>
-
-<!-- ## Troféus
-
-<div align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=leonardoaragaodev" alt="leonardoaragaodev" />
-	</a>
-</div>
--->
 
 <!-- ![snake gif](https://github.com/LeonardoAragaoDev/LeonardoAragaoDev/blob/output/github-contribution-grid-snake.svg) -->

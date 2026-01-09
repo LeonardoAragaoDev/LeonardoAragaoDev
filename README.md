@@ -150,7 +150,7 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 </details>
 
-## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height=40>
+<!-- ## Estatísticas GitHub <img src="https://github.githubassets.com/images/mona-loading-dark.gif" height=40>
 
 <div align="center">
 
@@ -159,4 +159,4 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 
 </div>
 
-<!-- ![snake gif](https://github.com/LeonardoAragaoDev/LeonardoAragaoDev/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/LeonardoAragaoDev/LeonardoAragaoDev/blob/output/github-contribution-grid-snake.svg) -->

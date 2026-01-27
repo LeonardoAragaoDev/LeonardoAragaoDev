@@ -131,6 +131,7 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 <br> 
 <img src="https://img.shields.io/badge/-Kanban-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Scrum-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Scrumban-brown?style=for-the-badge">
 </details> 
 
 <details>
@@ -138,6 +139,7 @@ Seja bem vindo(a) ao meu perfil <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/h
 <br> 
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/-Mantis-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Azure-blue?style=for-the-badge">
 </details> 
   
 <details>
